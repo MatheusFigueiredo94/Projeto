@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessaXml", "ProcessaXml\ProcessaXml.csproj", "{766E1AEE-FBAB-48ED-B24E-828C4CC1BF0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcessaXml.Entidade", "ProcessaXml.Entidade\ProcessaXml.Entidade.csproj", "{247F7A33-20A6-49AD-8DDB-B56E0757D3B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{766E1AEE-FBAB-48ED-B24E-828C4CC1BF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766E1AEE-FBAB-48ED-B24E-828C4CC1BF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766E1AEE-FBAB-48ED-B24E-828C4CC1BF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766E1AEE-FBAB-48ED-B24E-828C4CC1BF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{247F7A33-20A6-49AD-8DDB-B56E0757D3B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247F7A33-20A6-49AD-8DDB-B56E0757D3B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247F7A33-20A6-49AD-8DDB-B56E0757D3B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247F7A33-20A6-49AD-8DDB-B56E0757D3B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B860EF4-33D7-49FE-82F1-882B565C6F28}
+	EndGlobalSection
+EndGlobal
